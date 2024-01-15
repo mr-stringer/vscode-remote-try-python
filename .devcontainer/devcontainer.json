@@ -14,9 +14,7 @@
 		"vscode": {
 			"settings": {},
 			"extensions": [
-				"streetsidesoftware.code-spell-checker",
-				"redhat.ansible",
-                		"davidanson.vscode-markdownlint"
+				"streetsidesoftware.code-spell-checker"
 			]
 		}
 	},
